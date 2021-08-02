@@ -1,8 +1,11 @@
 ## Ecommerce Product Search
 
+[Click here for live demo](https://ecom-produc-search.herokuapp.com/)
+
 > Ecommerce Product Search - Simple search form (text input and button) and Product grid which contains a list of products relevant for the search term submitted in the form. The grid must be paginated and display 96 elements per page. Navigation between the pages must be intuitive with an option to go to the first and the last pages
 
-The product data is available via GraphQL by the following URL: https://coding-challenge.bstn.com/graphql. For the documentation and query examples refer to the official Magento 2 website: https://devdocs.magento.com/guides/v2.3/graphql/queries/products.html
+> The product data is available via GraphQL by the following URL: https://coding-challenge.bstn.com/graphql. 
+> For the documentation and query examples refer to the official Magento 2 website: https://devdocs.magento.com/guides/v2.3/graphql/queries/products.html
 
 ## Getting Started
 
